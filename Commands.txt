@@ -1,0 +1,12 @@
+/setDeathmatchTime XX	Sets the time until the deathmatch countdown begins.
+Replace XX with the number of seconds to wait before the deathmatch timer starts.
+/kick UserName	Replace UserName with the user name of the player you'd like to kick from the match.
+Must use the user's actual User Name and not their Display Name.
+/setGeneratorMultiplier XX	Sets the multiplier spawn rate for resource generators.
+Replace XX with a number above zero to set the spawn rate. The lower the number, the
+faster it spawns! (.00001 makes it spawn much faster than 1000)
+/hub	Takes you back to the lobby hub.
+/blacklistitem Item Name	Restricts said item from being used in the custom match. Replace Item Name with the item that you want to remove. Items with multiple words should be separated with underscores.
+/disablekit Kit Name	Disables the said kit from being used in the custom match. Replace Kit Name with the kit that you want to remove.
+/togglespawn Name	Toggles the spawning of said item. Replace Name with whatever you'd like to spawn.
+/announce Message	Gives a notification message to all in-game players. Replace Message with what you'd like to announce.
